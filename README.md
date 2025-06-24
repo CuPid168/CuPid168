@@ -37,30 +37,9 @@
 
 ### 🛠️ Languages & Tools
 
-<h3 align="center">🛠️ Languages & Tools</h3>
-
 <p align="center">
-  <a href="https://reactjs.org/" target="_blank" title="React">
-    <img src="https://skillicons.dev/icons?i=react" width="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" title="Next.js">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" title="Vue.js">
-    <img src="https://skillicons.dev/icons?i=vue" width="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" width="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
-    <img src="https://skillicons.dev/icons?i=ts" width="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <!-- Tambahkan tools lainnya dengan pola yang sama -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,js,ts,html,css,bootstrap,figma,nodejs,express,nestjs,mysql,postgresql,sqlite,docker,git,python,flutter,firebase,tensorflow,opencv,seaborn,scikit-learn,pandas" />
 </p>
-
 
 ---
 
