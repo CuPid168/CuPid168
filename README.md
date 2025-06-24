@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Passionate Frontend Developer from Indonesia 🇮🇩
+  🚀 Information System Student at Telkom University
 </h3>
 
 <div align="center">
