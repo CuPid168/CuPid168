@@ -12,13 +12,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cupid168&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
-
----
-
 ### 📂 Projects
 - 👨‍💻 All of my projects will be available at: **[Coming Soon 🚧](#)**
 
@@ -46,15 +39,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,js,ts,html,css,bootstrap,figma,nodejs,express,nestjs,mysql,postgresql,sqlite,docker,git,python,flutter,firebase,tensorflow,opencv,seaborn,scikit-learn,pandas" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cupid168&show_icons=true&theme=radical" alt="Fernando's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cupid168&layout=compact&theme=radical" alt="Top Languages" width="40%" />
 </p>
 
 ---
