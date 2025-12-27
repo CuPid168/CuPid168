@@ -35,7 +35,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,js,ts,html,css,bootstrap,figma,nodejs,express,nestjs,mysql,postgresql,sqlite,docker,git,python,flutter,firebase,tensorflow,opencv,seaborn,scikit-learn,pandas" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,js,ts,html,css,bootstrap,figma,nodejs,express,nestjs,mysql,postgresql,sqlite,git,python,tensorflow,opencv,seaborn,scikit-learn,pandas" />
 </p>
 
 ---
