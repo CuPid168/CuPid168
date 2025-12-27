@@ -13,7 +13,7 @@
 ---
 
 ### 📂 Projects
-- 👨‍💻 All of my projects will be available at: **[Coming Soon 🚧](#)**
+- 👨‍💻 All of my projects will be available at: https://ndoportfolio.vercel.app/
 
 ### 📫 How to reach me
 - ✉️ **fernandomanuel168@gmail.com**
